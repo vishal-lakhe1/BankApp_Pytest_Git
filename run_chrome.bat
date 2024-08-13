@@ -1,1 +1,1 @@
-pytest -v -n=4 -m "sanity and group1" --html=HTMLReport/myreport_chrome.html --browser chrome --alluredir="Allure-Results" -p no:warnings
+pytest -v -n=4 -m "sanity and group1" --html=HTMLReport/myreport_chrome.html --browser chrome --alluredir="allure_reports" -p no:warnings
